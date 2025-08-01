@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # RCO Loading Screen - Installation Guide
 
 ## 📋 Table of Contents
@@ -209,3 +210,7 @@ If you encounter any issues:
 2. Verify all configuration values are correct
 3. Ensure all required files are present
 4. Test with default settings first
+=======
+# rco-loading
+Advanced Loading Screen made with React for RedM
+>>>>>>> 6c61277d78a36dc60b96e41d9a8e0e8386f73e93
